@@ -1,5 +1,7 @@
 # Printing Press Cream
 
+Install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=neosky.printing-press-cream).
+
 A light VS Code theme that feels like a small print press: solid warm ink on
 flat cream paper, with the **same cream colour on every panel** — editor,
 sidebar, tabs, terminal, status bar, title bar. No patchwork of slightly
