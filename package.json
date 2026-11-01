@@ -1,0 +1,45 @@
+{
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Printing Press Cream",
+        "path": "./themes/printing-press-cream-color-theme.json",
+        "uiTheme": "vs"
+      }
+    ]
+  },
+  "description": "A flat cream-paper and warm-ink light theme for VS Code. Print-press contrast: solid ink text on one calm cream colour across every panel.",
+  "displayName": "Printing Press Cream",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "galleryBanner": {
+    "color": "#FCF4E3",
+    "theme": "light"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "light",
+    "cream",
+    "paper",
+    "ink",
+    "print",
+    "beige",
+    "warm",
+    "high contrast",
+    "flexoki",
+    "theme",
+    "printing press"
+  ],
+  "license": "MIT",
+  "name": "printing-press-cream",
+  "publisher": "neosky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neoskyz/printing-press-cream"
+  },
+  "version": "0.1.0"
+}
