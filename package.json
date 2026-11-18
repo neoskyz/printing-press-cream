@@ -11,7 +11,7 @@
       }
     ]
   },
-  "description": "A flat cream-paper and warm-ink light theme for VS Code. Print-press contrast: solid ink text on one calm cream colour across every panel.",
+  "description": "A flat cream-paper and warm-ink light theme for VS Code. Print-press contrast: solid ink text on cream paper, with a slightly deeper cream around the editor so the page stands out.",
   "displayName": "Printing Press Cream",
   "engines": {
     "vscode": "^1.85.0"
@@ -41,5 +41,5 @@
     "type": "git",
     "url": "https://github.com/neoskyz/printing-press-cream"
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }

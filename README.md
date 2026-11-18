@@ -3,9 +3,10 @@
 Install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=neosky.printing-press-cream).
 
 A light VS Code theme that feels like a small print press: solid warm ink on
-flat cream paper, with the **same cream colour on every panel** — editor,
-sidebar, tabs, terminal, status bar, title bar. No patchwork of slightly
-different beiges, no washed-out grey-blue text.
+flat cream paper. The editor is the brightest sheet; everything around it
+(sidebar, activity bar, tabs, panel, terminal, status bar, title bar) shares
+**one slightly deeper cream**, so the page you're writing on stands forward.
+Two tones only: no patchwork of beiges, no washed-out grey-blue text.
 
 Text contrast is the point: the main ink (`#332E27`) measures roughly
 **12:1** against the paper (`#FCF4E3`), where classic Solarized Light's
@@ -15,7 +16,8 @@ slate foreground manages only about 4:1.
 
 | Role | Colour |
 | --- | --- |
-| Paper (all surfaces) | `#FCF4E3` |
+| Paper (editor) | `#FCF4E3` |
+| Frame (side bar, panel, bars, tabs) | `#F2E8D0` |
 | Raised surface / hover | `#F0E5C8` |
 | Selection | `#E9DCB9` |
 | Ink (main text) | `#332E27` |
@@ -41,7 +43,7 @@ palette for its ANSI colours, so CLI output doesn't clash with the editor.
 **From a .vsix file:**
 
 ```sh
-code --install-extension printing-press-cream-0.1.0.vsix
+code --install-extension printing-press-cream-0.2.0.vsix
 ```
 
 then select the theme the same way.

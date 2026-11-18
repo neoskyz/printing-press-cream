@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 — 2026-11-18
+
+- Everything around the editor (side bar, activity bar, tab strip, panel,
+  terminal, status bar, title bar) now uses a slightly deeper cream
+  (`#F2E8D0`), so the editor page stands out. The active tab keeps the
+  editor's paper colour and reads as joined to it.
+- Hover and inactive-selection tones darkened to stay visible on the frame.
+
 ## 0.1.0 — 2026-10-30
 
 - Initial release.
