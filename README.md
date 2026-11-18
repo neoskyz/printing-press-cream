@@ -17,7 +17,7 @@ slate foreground manages only about 4:1.
 | Role | Colour |
 | --- | --- |
 | Paper (editor) | `#FCF4E3` |
-| Frame (side bar, panel, bars, tabs) | `#F2E8D0` |
+| Frame (side bar, panel, bars, tabs) | `#EADDBF` |
 | Raised surface / hover | `#F0E5C8` |
 | Selection | `#E9DCB9` |
 | Ink (main text) | `#332E27` |

@@ -4,9 +4,10 @@
 
 - Everything around the editor (side bar, activity bar, tab strip, panel,
   terminal, status bar, title bar) now uses a slightly deeper cream
-  (`#F2E8D0`), so the editor page stands out. The active tab keeps the
+  (`#EADDBF`), so the editor page stands out. The active tab keeps the
   editor's paper colour and reads as joined to it.
-- Hover and inactive-selection tones darkened to stay visible on the frame.
+- Hover and selection tones in the side bar, tabs and status bar darkened
+  to stay visible on the frame.
 
 ## 0.1.0 — 2026-10-30
 
