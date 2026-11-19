@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.2 — 2026-11-18
+
+- Word highlight (cursor resting on a symbol) is now a near-invisible tint
+  with a thin outline; text selection is a clearly deeper `#DFCB97`. The two
+  no longer look alike.
+
 ## 0.2.1 — 2026-11-18
 
 - Word highlight (cursor on an identifier) is now a pale fill with a thin border, so it no longer looks like a real selection. Hover and bracket-match fills moved off the selection colour too.
