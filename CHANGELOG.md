@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.3 — 2026-11-18
+
+- Word-highlight, bracket-match and hover-highlight backgrounds are now
+  translucent. VS Code paints them on top of the selection, so the old
+  opaque values hid the selection colour completely.
+
 ## 0.2.2 — 2026-11-18
 
 - Word highlight (cursor resting on a symbol) is now a near-invisible tint
