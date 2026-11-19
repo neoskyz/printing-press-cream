@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 — 2026-11-18
+
+- Word highlight (cursor on an identifier) is now a pale fill with a thin border, so it no longer looks like a real selection. Hover and bracket-match fills moved off the selection colour too.
+
 ## 0.2.0 — 2026-11-18
 
 - Everything around the editor (side bar, activity bar, tab strip, panel,
