@@ -477,15 +477,76 @@
       }
     },
     {
-      "name": "Markdown heading",
+      "name": "Markdown heading (H1)",
       "scope": [
         "markup.heading",
+        "markup.heading.markdown",
         "entity.name.section.markdown",
-        "markup.heading entity.name"
+        "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#AD8301",
+        "foreground": "#C77C00",
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown heading H2",
+      "scope": [
+        "heading.2.markdown",
+        "heading.2.markdown entity.name.section.markdown",
+        "heading.2.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#1F4E9C",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown heading H3",
+      "scope": [
+        "heading.3.markdown",
+        "heading.3.markdown entity.name.section.markdown",
+        "heading.3.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#0E8C8C",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown heading H4",
+      "scope": [
+        "heading.4.markdown",
+        "heading.4.markdown entity.name.section.markdown",
+        "heading.4.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#3A8FD0",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown heading H5",
+      "scope": [
+        "heading.5.markdown",
+        "heading.5.markdown entity.name.section.markdown",
+        "heading.5.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#7B4FA0",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Markdown heading H6",
+      "scope": [
+        "heading.6.markdown",
+        "heading.6.markdown entity.name.section.markdown",
+        "heading.6.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#8B6F47",
+        "fontStyle": ""
       }
     },
     {

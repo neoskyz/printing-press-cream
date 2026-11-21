@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.4 — 2026-11-21
+
+- Markdown headings now have per-level colours: H1 orange `#C77C00`, H2 blue `#1F4E9C`, H3 teal `#0E8C8C`, H4 sky `#3A8FD0`, H5 purple `#7B4FA0`, H6 brown `#8B6F47` (H1-H4 bold).
+
 ## 0.2.3 — 2026-11-18
 
 - Word-highlight, bracket-match and hover-highlight backgrounds are now
